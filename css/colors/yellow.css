@@ -1,0 +1,55 @@
+/* ========================================================================================= */
+/* ======================================= MAIN COLOR : #FBB117 =================================== */
+/* ========================================================================================= */
+
+.title:after {
+ 	background: #FBB117;
+}
+.small-title:after {
+ 	background: #FBB117;
+}
+.sidebar ul .active a:before {
+ 	background: #FBB117;
+}
+.sidebar ul li a:hover::before {
+ 	background: #FBB117;
+}
+.home-page .middle-l h3 span {
+ 	background-color: #FBB117;
+}
+.info ul li a {
+    border-color: #FBB117;
+}
+.services ul li .service-box:hover i {
+	background: #FBB117;
+	border-color: #FBB117;
+}
+.resume .column-left .icon {
+	background: #FBB117;
+}
+.resume .column-right .icon {
+	background: #FBB117;
+}
+.filter a:hover {
+    border-bottom: 1px solid #FBB117;
+}
+.filter li a.active {
+    border-bottom: 1px solid #FBB117;
+}
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #FBB117;
+}
+.form-group .button {
+    background: #FBB117;
+}
+.contact-info .item i {
+    color: #FBB117;
+}
+.tooltip-div .tooltiptext {
+	background-color: #E9AB17;
+}
+
+.tooltip-div .tooltiptext::after {
+	border-color: #E9AB17 transparent transparent transparent;
+}

@@ -1,0 +1,55 @@
+/* ========================================================================================= */
+/* ======================================= MAIN COLOR : #E56717 =================================== */
+/* ========================================================================================= */
+
+.title:after {
+ 	background: #E56717;
+}
+.small-title:after {
+ 	background: #E56717;
+}
+.sidebar ul .active a:before {
+ 	background: #E56717;
+}
+.sidebar ul li a:hover::before {
+ 	background: #E56717;
+}
+.home-page .middle-l h3 span {
+ 	background-color: #E56717;
+}
+.info ul li a {
+    border-color: #E56717;
+}
+.services ul li .service-box:hover i {
+	background: #E56717;
+	border-color: #E56717;
+}
+.resume .column-left .icon {
+	background: #E56717;
+}
+.resume .column-right .icon {
+	background: #E56717;
+}
+.filter a:hover {
+    border-bottom: 1px solid #E56717;
+}
+.filter li a.active {
+    border-bottom: 1px solid #E56717;
+}
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #E56717;
+}
+.form-group .button {
+    background: #E56717;
+}
+.contact-info .item i {
+    color: #E56717;
+}
+.tooltip-div .tooltiptext {
+	background-color: #F87217;
+}
+
+.tooltip-div .tooltiptext::after {
+	border-color: #F87217 transparent transparent transparent;
+}

@@ -1,0 +1,55 @@
+/* ========================================================================================= */
+/* ======================================= MAIN COLOR : #254117 =================================== */
+/* ========================================================================================= */
+
+.title:after {
+ 	background: #254117;
+}
+.small-title:after {
+ 	background: #254117;
+}
+.sidebar ul .active a:before {
+ 	background: #254117;
+}
+.sidebar ul li a:hover::before {
+ 	background: #254117;
+}
+.home-page .middle-l h3 span {
+ 	background-color: #254117;
+}
+.info ul li a {
+    border-color: #254117;
+}
+.services ul li .service-box:hover i {
+	background: #254117;
+	border-color: #254117;
+}
+.resume .column-left .icon {
+	background: #254117;
+}
+.resume .column-right .icon {
+	background: #254117;
+}
+.filter a:hover {
+    border-bottom: 1px solid #254117;
+}
+.filter li a.active {
+    border-bottom: 1px solid #254117;
+}
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #254117;
+}
+.form-group .button {
+    background: #254117;
+}
+.contact-info .item i {
+    color: #254117;
+}
+.tooltip-div .tooltiptext {
+	background-color: #347C2C;
+}
+
+.tooltip-div .tooltiptext::after {
+	border-color: #347C2C transparent transparent transparent;
+}

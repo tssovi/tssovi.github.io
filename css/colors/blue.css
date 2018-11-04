@@ -1,0 +1,55 @@
+/* ========================================================================================= */
+/* ======================================= MAIN COLOR : #1F45FC =================================== */
+/* ========================================================================================= */
+
+.title:after {
+ 	background: #1F45FC;
+}
+.small-title:after {
+ 	background: #1F45FC;
+}
+.sidebar ul .active a:before {
+ 	background: #1F45FC;
+}
+.sidebar ul li a:hover::before {
+ 	background: #1F45FC;
+}
+.home-page .middle-l h3 span {
+ 	background-color: #1F45FC;
+}
+.info ul li a {
+    border-color: #1F45FC;
+}
+.services ul li .service-box:hover i {
+	background: #1F45FC;
+	border-color: #1F45FC;
+}
+.resume .column-left .icon {
+	background: #1F45FC;
+}
+.resume .column-right .icon {
+	background: #1F45FC;
+}
+.filter a:hover {
+    border-bottom: 1px solid #1F45FC;
+}
+.filter li a.active {
+    border-bottom: 1px solid #1F45FC;
+}
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #1F45FC;
+}
+.form-group .button {
+    background: #1F45FC;
+}
+.contact-info .item i {
+    color: #1F45FC;
+}
+.tooltip-div .tooltiptext {
+	background-color: #2B60DE;
+}
+
+.tooltip-div .tooltiptext::after {
+	border-color: #2B60DE transparent transparent transparent;
+}
